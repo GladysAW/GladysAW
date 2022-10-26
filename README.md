@@ -6,7 +6,7 @@
 
 - I'm currently attending a full-stack Web Development course 👩🏻‍💻
 
-- learning: HTML, CSS. JavaScript, React.js. Node.js
+- learning: HTML, CSS, JavaScript, React.js, Node.js
 
 - my background is in Banking 🏦 and Fin-Tech operations 🐝
 
