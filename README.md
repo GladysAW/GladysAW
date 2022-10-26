@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi! I'm Gladys!
 
-<!--
-**GladysAW/GladysAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a developer in training 🤓
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently attending a full-stack Web Development course 👩🏻‍💻
+
+- learning: HTML, CSS. JavaScript, React.js. Node.js
+
+- my background is in Banking 🏦 and Fin-Tech operations 🐝
+
+
+### connect with me
+
+<a href="https://www.linkedin.com/in/gladys-aldoumani-34b76286/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  <a href="mailto:gladys.aldoumani@hotmail.com">
+  <img src="https://img.shields.io/badge/mail-green?style=for-the-badge&logo=icloud&logoColor=white"/>
+</a>
+<a href="https://www.xing.com/profile/Gladys_Aldoumani/cv">
+  <img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white"/>
+</a>
